@@ -1,0 +1,1 @@
+$(".love").addClass("my");
